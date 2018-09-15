@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SasotSeanMichaelPLab1</string>
+    <string name="location">Location:</string>
+    <string name="distance">Distance from UST:</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+</resources>
